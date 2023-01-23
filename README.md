@@ -2,6 +2,8 @@
 
 -   [wishthis](https://github.com/grandeljay/wishthis)
 
+    wishthis is a simple, intuitive and modern wishlist platform to create, manage and view your wishes for any kind of occasion.
+
 ### [modified-shop modules](https://www.modified-shop.org/) ([MMLC](https://module-loader.de/) compatible)
 
 #### Languages
