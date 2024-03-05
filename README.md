@@ -16,10 +16,10 @@ Pretty much everything I know is self taught and I am lacking many programming p
 
 If you are a developer, looking to contribute to any projects, check out:
 
-| Project                                                                    | Technologies |
-| -------------------------------------------------------------------------- | ---------- |
+| Project                                                                    | Technologies                                                                       |
+| :------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 | [withthis](https://github.com/wishthis/wishthis)                           | <ul><li>PHP</li><li>JavaScript ([Fomantic-UI](https://fomantic-ui.com/))</li></ul> |
-| [discord-availability](https://github.com/grandeljay/discord-availability) | <ul><li>PHP ([discord API](https://github.com/discord-php/DiscordPHP))</li></ul>  |
+| [discord-availability](https://github.com/grandeljay/discord-availability) | <ul><li>PHP ([discord API](https://github.com/discord-php/DiscordPHP))</li></ul>   |
 
 ## That's it
 
